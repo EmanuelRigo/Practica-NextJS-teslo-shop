@@ -7,7 +7,7 @@ import { IoCardOutline } from "react-icons/io5";
 export default function page() {
   return (
     <>
-      <Title title="Orders" />
+      <Title title="Orders" subtitle="" className="" />
 
       <div className="mb-10">
         <table className="min-w-full">
