@@ -1,7 +1,7 @@
-export default function() {
-    return (
-        <div>
-        <h1>AdminPage</h1>
-        </div>
-    );
+export default function page() {
+  return (
+    <div>
+      <h1>AdminPage</h1>
+    </div>
+  );
 }
