@@ -77,7 +77,7 @@ export default function page() {
               {/* disclamer */}
               <p className="mb-5">
                 <span className="text-xs">
-                  Al hacer click en "Colocar orden", aceptas nuestros
+                  Al hacer click en &quot;Colocar orden&quot;, aceptas nuestros
                   <a href="#" className="underline">
                     Términos y condiciones de uso
                   </a>
