@@ -4,7 +4,7 @@ import { ProductGrid } from "@/components";
 
 const products = initialData.products;
 
-export default function Home() {
+export default function page() {
   return (
     <>
       <Title

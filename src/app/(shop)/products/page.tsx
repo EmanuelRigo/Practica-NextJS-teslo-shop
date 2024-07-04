@@ -1,7 +1,7 @@
-export default function() {
-    return (
-        <div>
-        <h1>products Page</h1>
-        </div>
-    );
+export default function page() {
+  return (
+    <div>
+      <h1>products Page</h1>
+    </div>
+  );
 }

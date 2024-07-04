@@ -19,7 +19,7 @@ const labels: Record<Category, string> = {
   unisex: "Todos",
 };
 
-export default function ({ params }: Props) {
+export default function page({ params }: Props) {
   const { id } = params;
 
   const products = seedProducts.filter((product) => product.gender === id);
